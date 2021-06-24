@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatestplus:testng-6-7_3:3.2.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatestplus/testng-6-7_3/3.2.9.0/b574dc7961363fc45b8d37d71c27f1673142ab4e/testng-6-7_3-3.2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatestplus/testng-6-7_3/3.2.9.0/f40e0799aa31245480eea3b6e2f828d34773b37b/testng-6-7_3-3.2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

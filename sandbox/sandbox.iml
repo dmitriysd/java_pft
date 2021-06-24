@@ -14,5 +14,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.scalatestplus:testng-6-7_3:3.2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala3-library_3:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.scalatest:scalatest-core_3:3.2.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala-library:2.13.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.scalactic:scalactic_3:3.2.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.scalatest:scalatest-compatible:3.2.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang.modules:scala-xml_3:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.1" level="project" />
   </component>
 </module>
