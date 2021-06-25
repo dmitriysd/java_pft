@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+
+
+repositories{
+    mavenCentral()
+}
+
+
+dependencies {
+    compile 'org.scalatestplus:testng-6-7_3:3.2.9.0'
+}
