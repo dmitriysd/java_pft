@@ -7,6 +7,9 @@ repositories{
 }
 
 
+
 dependencies {
     compile 'org.scalatestplus:testng-6-7_3:3.2.9.0'
+    compile 'org.seleniumhq.selenium:selenium-java:2.48.2'
 }
+
